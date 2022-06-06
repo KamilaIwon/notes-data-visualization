@@ -1,1 +1,3 @@
-# 164933_PS
+# wykresy liniowe
+# poziome plot bar podzielone na części
+# wykresy kołowe
