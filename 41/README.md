@@ -1,2 +1,4 @@
-# wd---nauka
-notatki na egazamin z wizualizacji danych
+
+# zad1 - 
+# zad2 - 
+# zad3 - koszyki, wykres słupkowy z koszyków
