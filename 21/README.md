@@ -1,3 +1,3 @@
+# wykresy liniowe do przerysowania
+# poziome plot barh podzielone na części
 # wykresy liniowe
-# poziome plot bar podzielone na części
-# wykresy kołowe
