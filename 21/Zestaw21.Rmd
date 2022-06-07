@@ -1,0 +1,41 @@
+---
+title: "Egzamin (pierwszy termin) - Wizualizacja danych - Zestaw 21"
+lang: pl
+output:
+  word_document: default
+  pdf_document: default
+---
+
+*Zadanie 1 i 2 po 15 pkt. Zadanie 3 - 20 pkt. *
+
+*Punktacja: 46-50 pkt - bdb(5,0); 41-45 pkt - db+(4,5); 36-40 pkt - db(4,0); 31-35 pkt - dst+(3,5); 26-30 pkt - dst(3,0); 0-25 pkt - ndst (2,0).*  
+
+Zad.1. Odwzoruj wykres znajdujący się w pliku o nazwie w21.png. Odcienie kolorów mogą się różnić, jednak główne barwy muszą być zachowane. Zapisz wykres w formacie pdf za pomocą kodu. 
+
+Zad.2. W jednym pliku wykonaj poniższe czynności:
+
+* załaduj dane z pliku sprzedaz21.xlsx jako ramkę danych (Data Frame),
+* wyświetl na konsoli sumę z poszczególnych lat 
+
+produkt 1 - suma ze wszystkich lat
+
+produkt 2 - suma ze wszystkich lat
+
+produkt 3 - suma ze wszystkich lat
+
+* stwórz wykres słupkowy poziomy (może być pogrupowany) prezentujący dane zawarte w ramce danych
+
+
+Wykres powinien być estetyczny i podpisany. Im więcej - tym lepiej.
+
+Zapisz wykres w formacie jpg za pomocą kodu.
+
+Zad.3. W jednym pliku wykonaj poniższe czynności:
+
+* załaduj dane z pliku dosw21.csv,
+* usuń z danych wiersze gdzie występują braki
+* stwórz wykres liniowy prezentujący pozostałe dane (trzy linie na jednym wykresie o różnych kolorach i stylach) 
+* umieść swój numer indeksu w lewym górnym rogu wykresu
+* Wykres powinien być estetyczny i podpisany. Im więcej - tym lepiej.
+
+Zapisz wykres w formacie png za pomocą kodu.
