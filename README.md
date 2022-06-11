@@ -1,6 +1,13 @@
 # wd---nauka
 notatki na egazamin z wizualizacji danych
 
+pobieranie pythona 3.8:
+http://wmii.uwm.edu.pl/~piojas/wp-content/uploads/2022/02/pierwszekroki.pdf
+
+biblioteki:
+http://wmii.uwm.edu.pl/~piojas/wp-content/uploads/2022/02/requirements.txt
+
+
 spis treści:
 zestaw 1:
 	- wykres liniowy 3 funkcji
