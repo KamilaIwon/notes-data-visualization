@@ -9,6 +9,7 @@ http://wmii.uwm.edu.pl/~piojas/wp-content/uploads/2022/02/requirements.txt
 
 
 spis treści:
+
 zestaw 1:
 	- wykres liniowy 3 funkcji
 	- wykres liniowy cen w zaleznosci od miesiaca
